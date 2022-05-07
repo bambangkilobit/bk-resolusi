@@ -3,7 +3,11 @@ RENCANA KONTEN BK
 - Javascript
   * ES6
   * Framework Javascripts
+   ^ Vue
+   ^ React
 - Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
