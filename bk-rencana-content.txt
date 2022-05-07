@@ -1,6 +1,8 @@
 RENCANA KONTEN BK
 
 - Javascript
+  * ES6
+  * Framework Javascripts
 - PHP Frameworks
 - Interview
 - Vlogs
